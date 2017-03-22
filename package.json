@@ -1,0 +1,24 @@
+{
+  "name": "nightwatch-webcomponents",
+  "version": "0.0.1",
+  "description": "Nightwatch extension commands and assertions for handling Web Components.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm t"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/apalaniuk/nightwatch-webcomponents.git"
+  },
+  "keywords": [
+    "nightwatch",
+    "web",
+    "components"
+  ],
+  "author": "Adam Palaniuk",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/apalaniuk/nightwatch-webcomponents/issues"
+  },
+  "homepage": "https://github.com/apalaniuk/nightwatch-webcomponents#readme"
+}
